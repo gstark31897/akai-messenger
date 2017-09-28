@@ -1,0 +1,3 @@
+[submodule "akai-core"]
+	path = akai-core
+	url = https://github.com/gstark31897/akai-core.git
